@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+th {
+    min-width: 100px;
+    border: 1px solid black;
+}
+
+table, td {
+    border: 1px solid black;
+}
+
+#rating-input {
+    min-width: 100px;
+}
+
+form {
+    padding: 20px;
+}
